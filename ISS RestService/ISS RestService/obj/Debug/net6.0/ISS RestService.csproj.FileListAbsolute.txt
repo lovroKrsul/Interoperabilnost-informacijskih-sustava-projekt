@@ -1,0 +1,28 @@
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.csproj.AssemblyReference.cache
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.AssemblyInfoInputs.cache
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.AssemblyInfo.cs
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.csproj.CoreCompileInputs.cache
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\appsettings.json
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\ISS RestService.exe
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\ISS RestService.deps.json
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\ISS RestService.runtimeconfig.json
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\ISS RestService.dll
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\ISS RestService.pdb
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\scopedcss\bundle\ISS RestService.styles.css
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.csproj.CopyComplete
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.dll
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\refint\ISS RestService.dll
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.pdb
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ISS RestService.genruntimeconfig.cache
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\obj\Debug\net6.0\ref\ISS RestService.dll
+C:\Users\THEMAN\source\repos\ISS RestService\ISS RestService\bin\Debug\net6.0\Commons.Xml.Relaxng.dll

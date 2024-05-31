@@ -1,0 +1,7 @@
+C:\Users\THEMAN\source\repos\ISS_Client\SOAP_WCF\bin\Debug\SOAP_WCF.dll.config
+C:\Users\THEMAN\source\repos\ISS_Client\SOAP_WCF\bin\Debug\SOAP_WCF.dll
+C:\Users\THEMAN\source\repos\ISS_Client\SOAP_WCF\bin\Debug\SOAP_WCF.pdb
+C:\Users\THEMAN\source\repos\ISS_Client\SOAP_WCF\obj\Debug\SOAP_WCF.csproj.AssemblyReference.cache
+C:\Users\THEMAN\source\repos\ISS_Client\SOAP_WCF\obj\Debug\SOAP_WCF.csproj.CoreCompileInputs.cache
+C:\Users\THEMAN\source\repos\ISS_Client\SOAP_WCF\obj\Debug\SOAP_WCF.dll
+C:\Users\THEMAN\source\repos\ISS_Client\SOAP_WCF\obj\Debug\SOAP_WCF.pdb

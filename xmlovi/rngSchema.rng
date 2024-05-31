@@ -1,0 +1,38 @@
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<rng:grammar xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" ns="" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <rng:start combine="choice">
+<rng:ref name="GamesList"/>
+</rng:start>
+<rng:define name="GamesList">
+<rng:element name="GamesList">
+    
+      
+        <rng:element name="Game">
+          
+            
+              <rng:element name="ID">
+<rng:data type="unsignedByte"/>
+</rng:element>
+              <rng:element name="Publisher">
+<rng:data type="string"/>
+</rng:element>
+              <rng:element name="title">
+<rng:data type="string"/>
+</rng:element>
+              <rng:element name="genre">
+<rng:data type="string"/>
+</rng:element>
+              <rng:element name="price">
+<rng:data type="string"/>
+</rng:element>
+              <rng:element name="description">
+<rng:data type="string"/>
+</rng:element>
+            
+          
+        </rng:element>
+      
+    
+  </rng:element>
+</rng:define>
+</rng:grammar>

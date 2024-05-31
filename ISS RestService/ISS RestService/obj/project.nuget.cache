@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "xE/Px4KfmUDPxKjOkiy4s2IPp4ENtotlhZcX0JRwwORUKgF1KA05Bd+F/qBFHHAGqyfg4MBxbTSxoww8Arxz/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\THEMAN\\source\\repos\\ISS RestService\\ISS RestService\\ISS RestService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THEMAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\THEMAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\THEMAN\\.nuget\\packages\\relaxng\\5.0.0-pre\\relaxng.5.0.0-pre.nupkg.sha512",
+    "C:\\Users\\THEMAN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\THEMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\THEMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\THEMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RelaxNG 5.0.0-pre' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RelaxNG",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

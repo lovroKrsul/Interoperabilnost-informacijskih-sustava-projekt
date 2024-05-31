@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vbxnhG1qD3XInCix2K5qCXSiiFAj0+HBFwEbU0NEP4M=",
+  "Source": "ISS RestService",
+  "BasePath": "_content/ISS RestService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

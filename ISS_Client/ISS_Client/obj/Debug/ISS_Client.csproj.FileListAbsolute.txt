@@ -1,0 +1,11 @@
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\bin\Debug\ISS_Client.exe.config
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\bin\Debug\ISS_Client.exe
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\bin\Debug\ISS_Client.pdb
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\obj\Debug\ISS_Client.csproj.AssemblyReference.cache
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\obj\Debug\ISS_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\obj\Debug\ISS_Client.Form1.resources
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\obj\Debug\ISS_Client.Properties.Resources.resources
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\obj\Debug\ISS_Client.csproj.GenerateResource.cache
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\obj\Debug\ISS_Client.csproj.CoreCompileInputs.cache
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\obj\Debug\ISS_Client.exe
+C:\Users\THEMAN\source\repos\ISS_Client\ISS_Client\obj\Debug\ISS_Client.pdb

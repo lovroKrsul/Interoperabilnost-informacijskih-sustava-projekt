@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSoapGame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SoapGame>
+    <appID>1182900</appID>
+    <title>A Plague Tale: Requiem</title>
+    <url>https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/?snr=1_7_7_151_150_1</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/1182900/capsule_sm_120.jpg?t=1678973757</imgUrl>
+    <releseDate>17 Oct, 2022</releseDate>
+    <reviewSummary>Very Positive&lt;br&gt;91% of the 7,507 user reviews for this game are positive.</reviewSummary>
+    <price>69,99€</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>752590</appID>
+    <title>A Plague Tale: Innocence</title>
+    <url>https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/?snr=1_7_7_151_150_1</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/752590/capsule_sm_120.jpg?t=1674035726</imgUrl>
+    <releseDate>14 May, 2019</releseDate>
+    <reviewSummary>Very Positive&lt;br&gt;93% of the 45,928 user reviews for this game are positive.</reviewSummary>
+    <price>39,99€</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>1740720</appID>
+    <title>Have a Nice Death</title>
+    <url>https://store.steampowered.com/app/1740720/Have_a_Nice_Death/?snr=1_7_7_151_150_1</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/1740720/capsule_sm_120_alt_assets_0.jpg?t=1683753196</imgUrl>
+    <releseDate>22 Mar, 2023</releseDate>
+    <reviewSummary>Very Positive&lt;br&gt;85% of the 6,872 user reviews for this game are positive.</reviewSummary>
+    <price>24,99€</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>253230</appID>
+    <title>A Hat in Time</title>
+    <url>https://store.steampowered.com/app/253230/A_Hat_in_Time/?snr=1_7_7_151_150_1</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/253230/capsule_sm_120.jpg?t=1671724399</imgUrl>
+    <releseDate>5 Oct, 2017</releseDate>
+    <reviewSummary>Overwhelmingly Positive&lt;br&gt;98% of the 37,396 user reviews for this game are positive.</reviewSummary>
+    <price>28,99€</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>218620</appID>
+    <title>PAYDAY 2</title>
+    <url>https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/?snr=1_7_7_151_150_20</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/239200/capsule_sm_120.jpg?t=1670246309</imgUrl>
+    <releseDate>10 Sep, 2013</releseDate>
+    <reviewSummary>Mixed&lt;br&gt;68% of the 5,857 user reviews for this game are positive.</reviewSummary>
+    <price>19,50€</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>239200</appID>
+    <title>Amnesia: A Machine for Pigs</title>
+    <url>https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/?snr=1_7_7_151_150_20</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/239200/capsule_sm_120.jpg?t=1670246309</imgUrl>
+    <releseDate>10 Sep, 2013</releseDate>
+    <reviewSummary>Mixed&lt;br&gt;68% of the 5,857 user reviews for this game are positive.</reviewSummary>
+    <price>19,50€</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>1333920</appID>
+    <title>A Place, Forbidden</title>
+    <url>https://store.steampowered.com/app/1333920/A_Place_Forbidden/?snr=1_7_7_151_150_6</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/1333920/capsule_sm_120.jpg?t=1684535776</imgUrl>
+    <releseDate>25 Jun, 2020</releseDate>
+    <reviewSummary>Very Positive&lt;br&gt;88% of the 313 user reviews for this game are positive.</reviewSummary>
+    <price>Free</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>1085660</appID>
+    <title>Destiny 2</title>
+    <url>https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_151_150_1</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1684966156</imgUrl>
+    <releseDate>1 Oct, 2019</releseDate>
+    <reviewSummary>Very Positive&lt;br&gt;82% of the 544,903 user reviews for this game are positive.</reviewSummary>
+    <price>Free To Play</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>320240</appID>
+    <title>We Happy Few</title>
+    <url>https://store.steampowered.com/app/320240/We_Happy_Few/?snr=1_7_7_151_150_1</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/320240/capsule_sm_120.jpg?t=1648680905</imgUrl>
+    <releseDate>10 Aug, 2018</releseDate>
+    <reviewSummary>Mostly Positive&lt;br&gt;76% of the 9,744 user reviews for this game are positive.</reviewSummary>
+    <price>59,99€</price>
+  </SoapGame>
+  <SoapGame>
+    <appID>327030</appID>
+    <title>Worms W.M.D</title>
+    <url>https://store.steampowered.com/app/327030/Worms_WMD/?snr=1_7_7_151_150_1</url>
+    <imgUrl>https://cdn.akamai.steamstatic.com/steam/apps/327030/capsule_sm_120.jpg?t=1668768511</imgUrl>
+    <releseDate>23 Aug, 2016</releseDate>
+    <reviewSummary>Very Positive&lt;br&gt;85% of the 6,692 user reviews for this game are positive.</reviewSummary>
+    <price>29,99€</price>
+  </SoapGame>
+</ArrayOfSoapGame>
